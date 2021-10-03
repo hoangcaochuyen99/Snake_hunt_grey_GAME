@@ -1,0 +1,5 @@
+﻿  mainadd.cpp
+C:\Users\Hoang Cao Chuyen\Dropbox\My PC (DESKTOP-4CSE7KM)\Documents\C++\C++_Begginer\Test1\SNAKE\SNAKE\mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Hoang Cao Chuyen\Dropbox\My PC (DESKTOP-4CSE7KM)\Documents\C++\C++_Begginer\Test1\SNAKE\SNAKE\mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Hoang Cao Chuyen\Dropbox\My PC (DESKTOP-4CSE7KM)\Documents\C++\C++_Begginer\Test1\SNAKE\SNAKE\mainadd.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SNAKE.vcxproj -> C:\Users\Hoang Cao Chuyen\Dropbox\My PC (DESKTOP-4CSE7KM)\Documents\C++\C++_Begginer\Test1\SNAKE\Debug\SNAKE.exe
